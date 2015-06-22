@@ -36,7 +36,7 @@ public class Server {
    * The pow task.
    */
   private static String POW_TASK = "Pow";
-  
+
   /**
    * The sub task.
    */
@@ -206,7 +206,6 @@ public class Server {
           }
 
         }
-        out.println("Request:" + RequestType.UNAVAILABLE + " ");
       }
     }
   }
